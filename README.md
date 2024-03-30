@@ -22,9 +22,15 @@ This project is a simple task manager web application built using React.js. It a
 **Setup Instructions:**
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install the project dependencies.
+3. Run `npm install --force` to install the project dependencies.
 4. After installation, run `npm start` to start the development server.
 5. Open your browser and visit `http://localhost:3000` to view the application.
+
+**Demo:**
+- [Watch the demo video](https://youtu.be/MZa0L5XDhYA)
+
+**Live Project:**
+- [Visit the live project](https://task-manager-react-rust.vercel.app/)
 
 **Contributing:**
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the project.
